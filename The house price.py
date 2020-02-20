@@ -1,4 +1,4 @@
-print("Te price of the house is $1M.")
+print("The price of the house is $1M.")
 condition = False
 good_credit = input("Does the buyer has good credit? ")
 
@@ -20,4 +20,3 @@ while condition == False:
      print("The answer must be 'yes' ou 'no'.")
      good_credit =input("Please, try again. ")
     
-
